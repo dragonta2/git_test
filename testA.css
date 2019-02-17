@@ -1,0 +1,17 @@
+#foo {
+  border: 1px dotted #ccc;
+  padding: 20px;
+}
+
+#foo ol li {
+  color: red;
+}
+
+#foo ol li span {
+  color: #bbb;
+}
+
+#foo ol li i {
+  display: block;
+  margin-top: 10px;
+}
